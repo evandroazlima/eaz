@@ -1,0 +1,16 @@
+steps:
+  - id: step-01-checkpoint
+    type: checkpoint
+    label: "Definir Foco de Pesquisa"
+
+  - id: step-02-research
+    type: agent
+    label: "Roberto Radar — Pesquisar e Ranquear Notícias"
+    agent: roberto-radar
+    execution: subagent
+
+  - id: step-03-ideation
+    type: agent
+    label: "Ivan Ideia — Gerar 5 Ângulos de Conteúdo"
+    agent: ivan-ideia
+    execution: inline

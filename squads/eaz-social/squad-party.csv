@@ -1,0 +1,3 @@
+path,displayName,icon,role,execution
+./agents/roberto-radar.agent.md,Roberto Radar,📰,Pesquisador de Tendências Cripto,subagent
+./agents/ivan-ideia.agent.md,Ivan Ideia,🎯,Idealizador de Ângulos de Conteúdo,inline

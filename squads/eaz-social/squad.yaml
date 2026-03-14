@@ -1,0 +1,17 @@
+squad:
+  id: eaz-social
+  name: EAZ Social Media Content
+  description: Pipeline de produção de conteúdo social para EAZ Educação — pesquisa notícias cripto, ranqueia histórias e gera 5 ângulos de conteúdo prontos para produção.
+  icon: 📱
+  language: pt-BR
+
+skills: []
+
+pipeline:
+  steps:
+    - id: step-01-checkpoint
+      file: steps/step-01-checkpoint.md
+    - id: step-02-research
+      file: steps/step-02-research.md
+    - id: step-03-ideation
+      file: steps/step-03-ideation.md
