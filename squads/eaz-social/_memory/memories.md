@@ -5,26 +5,33 @@ O Pipeline Runner atualiza este arquivo após cada execução.
 
 ## Histórico de Execuções
 
-(Nenhuma execução registrada ainda)
+### Run 2026-03-14-132041
+- **Foco:** Arbitragem de Criptomoedas
+- **Notícia selecionada:** Trader Perde $50M em Swap / MEV Bots Lucram $47M (CoinDesk, 10/10)
+- **5 ângulos gerados:** Educacional, Prático, Histórico, Crítico, Celebração — todos aprovados
+- **Nenhum veto acionado**
 
 ---
 
 ## Padrões de Alta Performance Identificados
 
-(Será preenchido automaticamente após as primeiras execuções)
+- Foco em "Arbitragem" gerou histórias de qualidade máxima (10/10) — manter como tema prioritário
+- Casos com números impactantes reais ($50M) têm alto potencial de engajamento no BR
 
 ## Tópicos que Geraram Mais Engajamento
 
-(Será preenchido automaticamente)
+- MEV + slippage: ângulo educacional ainda pouco explorado no mercado brasileiro
 
 ## Formatos com Melhor Desempenho
 
-(Será preenchido automaticamente)
+- Carrossel: ideal para conceitos técnicos (slippage, basis trade)
+- Reels 45-60s: ideal para revelações e desconstrução crítica
 
 ## Ângulos que Ressoaram com o Público
 
-(Será preenchido automaticamente)
+- Celebração ("quem estudou não erra"): ressoa diretamente com alunos do curso EAZ
+- Desconstrução crítica: diferencia EAZ de criadores de conteúdo superficiais
 
 ## Erros a Evitar (Aprendizados de Rejeições)
 
-(Será preenchido automaticamente)
+(Nenhum erro registrado ainda)
