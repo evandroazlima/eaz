@@ -1,8 +1,10 @@
 {
-  "outputStyle": "default",
   "permissions": {
     "allow": [
-      "mcp__playwright__browser_navigate"
+      "mcp__playwright__browser_navigate",
+      "mcp__nanobanana__generate_image",
+      "mcp__nanobanana__show_output_stats"
     ]
-  }
+  },
+  "outputStyle": "default"
 }
