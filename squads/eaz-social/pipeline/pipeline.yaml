@@ -14,3 +14,9 @@ steps:
     label: "Ivan Ideia — Gerar 5 Ângulos de Conteúdo"
     agent: ivan-ideia
     execution: inline
+
+  - id: step-04-image
+    type: agent
+    label: "Valentina Visual — Gerar Imagens com Ideogram"
+    agent: valentina-visual
+    execution: inline

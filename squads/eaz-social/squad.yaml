@@ -15,3 +15,5 @@ pipeline:
       file: steps/step-02-research.md
     - id: step-03-ideation
       file: steps/step-03-ideation.md
+    - id: step-04-image
+      file: steps/step-04-image.md
